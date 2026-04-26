@@ -1,0 +1,86 @@
+[
+  {
+    "doc_id": "profile-iit-bombay",
+    "college": "IIT Bombay",
+    "category": "profile",
+    "title": "IIT Bombay College Profile",
+    "content": "IIT Bombay (IITB) is located in Powai, Mumbai, Maharashtra. Established in 1958, it is consistently ranked among the top engineering colleges in India and Asia. It offers BTech, Dual Degree (BTech+MTech), MTech, MSc, MBA, and PhD programs. Key branches include CSE, EE, ME, Chemical Engineering, Civil Engineering, and Aerospace Engineering. Average package for CSE graduates is Rs 25-40 LPA with highest packages often exceeding Rs 1 crore from foreign companies. Campus spans 550 acres with excellent research infrastructure, labs, and startup ecosystem (SINE - Society for Innovation and Entrepreneurship). Entrance: JEE Advanced. CSE closing rank (General): ~50-100."
+  },
+  {
+    "doc_id": "profile-iit-delhi",
+    "college": "IIT Delhi",
+    "category": "profile",
+    "title": "IIT Delhi College Profile",
+    "content": "IIT Delhi (IITD) is located in Hauz Khas, New Delhi. Established in 1961, it is one of the premier IITs with strong industry connections due to Delhi location. Offers BTech, Integrated MTech, MTech, MBA (part-time), MSc, and PhD. Key departments: CSE, EE, ME, Civil, Chemical, Textile, and Biochemical Engineering. Strong placement record with average CSE package Rs 30-50 LPA. Home to Foundation for Innovation & Technology Transfer (FITT) for industry collaboration. Campus: 323 acres, urban setting. Entrance: JEE Advanced. CSE closing rank (General): ~50-120."
+  },
+  {
+    "doc_id": "profile-iit-madras",
+    "college": "IIT Madras",
+    "category": "profile",
+    "title": "IIT Madras College Profile",
+    "content": "IIT Madras (IITM) is located in Chennai, Tamil Nadu. Established in 1959 with German collaboration, it consistently ranks #1 in NIRF Engineering Rankings. Offers BTech, Dual Degree, MTech, MSc, and PhD across 16 departments. Known for Aerospace Engineering, Ocean Engineering, and strong research output. IIT Madras Research Park hosts 250+ companies. The campus is a declared forest with spotted deer roaming freely. Average CSE package: Rs 30-45 LPA. Entrance: JEE Advanced. CSE closing rank (General): ~50-130. Hosts one of India's first online BSc programs (IITM BS in Data Science)."
+  },
+  {
+    "doc_id": "profile-nit-trichy",
+    "college": "NIT Trichy",
+    "category": "profile",
+    "title": "NIT Trichy College Profile",
+    "content": "NIT Trichy (NITT) - National Institute of Technology, Tiruchirappalli, Tamil Nadu. Established 1964. Consistently ranked #1 or #2 among all NITs in NIRF. Campus: 800 acres on the banks of Cauvery river. Offers BTech, MTech, MCA, MBA, MSc, and PhD. Key branches: CSE, ECE, EEE, Mechanical, Civil, Chemical, Production Engineering. Average placement package: Rs 8-15 LPA (CSE up to Rs 25 LPA). Companies: TCS, Wipro, Infosys, Cognizant, Texas Instruments, Samsung. Entrance: JEE Main (All India quota). CSE closing rank (General): ~3000-4000 (AI quota)."
+  },
+  {
+    "doc_id": "profile-bits-pilani",
+    "college": "BITS Pilani",
+    "category": "profile",
+    "title": "BITS Pilani College Profile",
+    "content": "BITS Pilani (Birla Institute of Technology and Science, Pilani) - Private deemed university in Rajasthan. Established 1964. Campuses in Pilani, Goa, Hyderabad, and Dubai. Unique WILP (Work Integrated Learning Program) and Practice School program where students do internships for a semester. Offers B.E., M.Sc., and Integrated First Degree programs. Known for dual degree combinations (e.g., B.E. CSE + M.Sc. Mathematics). Placement: Average Rs 15-25 LPA, high packages in core branch+math combinations. Entrance: BITSAT (own exam). No reservations for domestic admissions. CSE cutoff: ~380-420/450 in BITSAT."
+  },
+  {
+    "doc_id": "profile-vit-vellore",
+    "college": "VIT Vellore",
+    "category": "profile",
+    "title": "VIT Vellore College Profile",
+    "content": "VIT University, Vellore - Private deemed university in Tamil Nadu. Established 1984. Large campus with 60+ programs. Known for strong industry connections and placement record. Campuses: Vellore, Chennai, Bhopal, Amaravati (AP). Accepts VITEEE scores. B.Tech specializations include CSE with specializations in AI/ML, Blockchain, Cybersecurity, IoT, Data Science. Average placement: Rs 6-12 LPA (CSE higher). Strong alumni network. International collaborations with 400+ universities. Hostel facilities excellent. Total strength: 25,000+ students. Good for students who want a private college experience with campus placement focus."
+  },
+  {
+    "doc_id": "profile-iit-hyderabad",
+    "college": "IIT Hyderabad",
+    "category": "profile",
+    "title": "IIT Hyderabad College Profile",
+    "content": "IIT Hyderabad (IITH) - New generation IIT in Telangana, established 2008. Growing rapidly with strong research culture. Located in Kandi, Sangareddy district. Unique interdisciplinary approach with departments like Computer Science and Engineering, Electrical Engineering, Mechanical Engineering, and newer programs in AI and Data Science. Research funding growing year-on-year. Average placement package: Rs 15-25 LPA (CSE). Rising startup culture. CSE closing rank (JEE Advanced, General): ~800-1000. Good option for those wanting IIT tag with growing research environment."
+  },
+  {
+    "doc_id": "profile-nit-warangal",
+    "college": "NIT Warangal",
+    "category": "profile",
+    "title": "NIT Warangal College Profile",
+    "content": "NIT Warangal (NITW) - One of the oldest and most prestigious NITs, located in Warangal, Telangana. Established 1959 as the first Regional Engineering College. NIRF rank consistently top 3 among NITs. Strong alumni network (IIT equivalent reputation in South India). Branches: CSE, ECE, EEE, ME, Civil, Chemical, Metallurgical Engineering. Average placement: Rs 8-18 LPA. CSE average: Rs 20-30 LPA. Strong industry connect with Hyderabad IT corridor (80 km away). JEE Main CSE closing rank (General, AI quota): ~5000-7000."
+  },
+  {
+    "doc_id": "profile-dtu",
+    "college": "DTU Delhi",
+    "category": "profile",
+    "title": "DTU Delhi College Profile",
+    "content": "Delhi Technological University (DTU), formerly DCE - State university, New Delhi. NIRF rank: top 50 engineering colleges. Accepts JEE Main scores for admission through JAC Delhi counselling (Delhi domicile preference). Branches: CSE, ECE, EEE, ME, Civil, Software Engineering, IT, Environmental Engineering. Strong placement with proximity to Delhi NCR companies. Average package: Rs 8-12 LPA (CSE up to Rs 20+ LPA). JEE Main cutoff (Delhi domicile, CSE): ~20,000-30,000 rank. Non-Delhi domicile: very limited seats. Known for active technical fest Invictus and entrepreneurship culture."
+  },
+  {
+    "doc_id": "profile-iiit-hyderabad",
+    "college": "IIIT Hyderabad",
+    "category": "profile",
+    "title": "IIIT Hyderabad College Profile",
+    "content": "International Institute of Information Technology, Hyderabad (IIITH) - Autonomous deemed university, established 1998. Focus exclusively on CS, ECE, and related fields. Offers BTech, Dual Degree (BTech+MS), MTech, and PhD. Admission through UGEE (own exam), JEE Main/Advanced scores, and DASA for foreign nationals. Strong research from day 1 - RnD-first culture. World-class faculty, many with international PhD. Average placement: Rs 20-35 LPA. Top packages: 1 crore+. Strong industry connect. IIITH CSE is often considered comparable to old IIT core branches. Limited seats (~150-200 per year)."
+  },
+  {
+    "doc_id": "rank-summary-iits",
+    "college": "General",
+    "category": "rank",
+    "title": "IIT Rank Cutoff Summary Table 2024",
+    "content": "IIT CSE closing ranks (JEE Advanced 2024, General category): IIT Bombay: 62, IIT Delhi: 118, IIT Madras: 130, IIT Kharagpur: 200, IIT Kanpur: 257, IIT Roorkee: 358, IIT Guwahati: 560, IIT Hyderabad: 950, IIT Indore: 1100, IIT BHU Varanasi: 1400, IIT Jodhpur: 1900, IIT Patna: 2500, IIT Mandi: 3200, IIT Tirupati: 4100. These are approximate figures; verify on josaa.nic.in. Ranks for OBC-NCL are roughly half the general rank number. SC/ST have significantly higher (less competitive) cutoffs."
+  },
+  {
+    "doc_id": "rank-summary-nits",
+    "college": "General",
+    "category": "rank",
+    "title": "NIT Rank Cutoff Summary Table 2024",
+    "content": "NIT CSE Other State closing ranks (JEE Main 2024, General category): NIT Trichy: 3500, NIT Warangal: 5500, NIT Surathkal (NITK): 5800, NIT Calicut: 7200, NIT Rourkela: 8500, NIT Allahabad (MNNIT): 9000, NIT Nagpur (VNIT): 9500, NIT Jaipur (MNIT): 10000, NIT Bhopal (MANIT): 11500, NIT Kurukshetra: 13000, NIT Durgapur: 14500, NIT Silchar: 18000. For ECE at the same NITs, multiply CSE rank by approximately 2.5. For Mechanical, multiply by approximately 4."
+  }
+]

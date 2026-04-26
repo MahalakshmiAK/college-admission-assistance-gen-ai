@@ -1,0 +1,80 @@
+[
+  {
+    "doc_id": "scholarship-central-sector",
+    "category": "scholarship",
+    "title": "Central Sector Scheme of Scholarships",
+    "content": "Central Sector Scheme of Scholarships for College and University Students is funded by the Ministry of Education, Government of India. Eligibility: Students who scored above 80th percentile in their respective Class 12 board exams. Family income must be below Rs 8 lakh per annum. Amount: Rs 12,000 per year for first three years of undergraduate study; Rs 20,000 per year for fourth and fifth years. Renewable annually based on academic performance. Application through National Scholarship Portal (scholarships.gov.in). Deadline: Typically October-November of each year."
+  },
+  {
+    "doc_id": "scholarship-inspire",
+    "category": "scholarship",
+    "title": "INSPIRE Scholarship for Higher Education",
+    "content": "INSPIRE (Innovation in Science Pursuit for Inspired Research) Scholarship is offered by the Department of Science and Technology (DST). Eligible for top 1% scorers in Class 12 board exams pursuing Natural and Basic Sciences at undergraduate level. Also covers Engineering students who are among top performers. Amount: Rs 80,000 per year (Rs 60,000 scholarship + Rs 20,000 mentorship grant). Duration: Up to 5 years of undergraduate/integrated programs. Students must maintain 60% marks to renew. Apply through the INSPIRE portal managed by DST."
+  },
+  {
+    "doc_id": "scholarship-post-matric-sc",
+    "category": "scholarship",
+    "title": "Post Matric Scholarship for SC Students",
+    "content": "Post Matric Scholarship Scheme for Scheduled Caste Students is provided by Ministry of Social Justice and Empowerment. All SC students pursuing education beyond Class 10 are eligible. Family income ceiling: Rs 2.5 lakh per annum. Covers: Full tuition fee reimbursement, maintenance allowance (Rs 300-1200/month depending on course type and hosteller/day scholar status), book allowance, and study tour charges. Application through National Scholarship Portal. Each state has specific provisions. Scholarship is renewed based on attendance and academic progress."
+  },
+  {
+    "doc_id": "scholarship-post-matric-st",
+    "category": "scholarship",
+    "title": "Post Matric Scholarship for ST Students",
+    "content": "Post Matric Scholarship for Scheduled Tribe students is administered by Ministry of Tribal Affairs. Available for ST students studying at post-matric level (Class 11 onwards through PhD). No income limit for full-time regular courses at government institutions. For private institutions, income limit of Rs 2.5 lakh applies. Benefits include: Tuition fee, maintenance allowance, book grant, and other non-refundable charges. Apply on National Scholarship Portal before October 31 each year."
+  },
+  {
+    "doc_id": "scholarship-obc",
+    "category": "scholarship",
+    "title": "Pre and Post Matric Scholarship for OBC Students",
+    "content": "Post Matric Scholarship for Other Backward Classes (OBC) students from Ministry of Social Justice. Eligibility: OBC students with family income below Rs 1 lakh per annum. Covers tuition fees and maintenance allowance. Amount varies by course and institution type. For engineering/medical courses at government colleges: up to Rs 10,000 per year tuition + maintenance. Application on National Scholarship Portal. Students must be studying in recognized government or aided institutions. Scholarship continues if student maintains good academic standing."
+  },
+  {
+    "doc_id": "scholarship-merit-iit",
+    "category": "scholarship",
+    "title": "IIT Institute Free Studentship and Merit Scholarships",
+    "content": "IITs offer Institute Free Studentship (IFS) based on academic merit and financial need. Top 25% performers in each semester may receive merit scholarships (typically Rs 1,000-2,000 per month). Students with family income below Rs 1 lakh: Full tuition waiver + Rs 1,000/month pocket allowance. Income Rs 1-5 lakh: 2/3rd fee waiver. Students can apply for multiple scholarships simultaneously. IIT-specific scholarships from alumni donations also available. Industry scholarships (Google India, Microsoft, Adobe, etc.) available for meritorious students."
+  },
+  {
+    "doc_id": "hostel-iit-general",
+    "category": "hostel",
+    "title": "IIT Hostel Facilities and Allocation",
+    "content": "IIT hostels (called Halls of Residence) provide residential facilities to all BTech students. Allocation: Typically assigned in first week of joining. First-year students usually get specific hostels. Process: Preferences submitted online; allocation based on availability. Facilities include: furnished room with study table and bed, common bathroom or attached bathroom in newer hostels, mess with subsidized vegetarian/non-vegetarian food, gym, common room with TV, indoor games, Wi-Fi throughout campus, laundry room. Hostel wardens and student government (Hostel Council) manage day-to-day operations. Annual hostel fee: Rs 15,000-50,000 depending on room type and IIT."
+  },
+  {
+    "doc_id": "hostel-nit-general",
+    "category": "hostel",
+    "title": "NIT Hostel Facilities and Admission",
+    "content": "NITs provide mandatory hostel accommodation to out-of-state students in most cases. State domicile students may be day scholars. Hostel allocation: Done at time of admission, based on rank and availability. Facilities vary by NIT: NIT Trichy and Warangal have well-maintained hostels with AC rooms available at extra cost. Mess facilities: Typically subsidized, committee-managed mess. Students can opt out of mess for a fee reduction. Hostel rules: Strict curfew times for first-year students, no guests in rooms, alcohol prohibited. Annual hostel + mess fee: Rs 40,000-80,000. Some NITs have separate international student hostels."
+  },
+  {
+    "doc_id": "hostel-bits-pilani",
+    "category": "hostel",
+    "title": "BITS Pilani Hostel Facilities",
+    "content": "BITS Pilani has a fully residential campus in Pilani. All students must stay in hostels (no day scholars). Hostel allocation process: New students allocated hostels before joining. Separate hostels for boys and girls. BITSian hostels known as 'bhavans'. Facilities: Single or double rooms, centralized mess (called 'Bhawanmess'), high-speed internet, sports facilities. The Pilani campus has 10+ hostels. Goa and Hyderabad campuses have modern hostel facilities. Annual hostel + mess charges: Rs 1,00,000-1,40,000. Hostel life is central to BITS culture - fests like APOGEE and OASIS are iconic."
+  },
+  {
+    "doc_id": "hostel-vit",
+    "category": "hostel",
+    "title": "VIT Vellore Hostel Facilities",
+    "content": "VIT Vellore has multiple hostels on campus accommodating 25,000+ students. Hostel types: AC and Non-AC rooms available. Types A, B, C blocks with different pricing. Hostel fee: Rs 80,000-1,50,000 per year depending on AC/Non-AC and room type. All hostels have round-the-clock security. Mess provides multiple cuisine options including North Indian, South Indian, and international food. Facilities: Gym, indoor games, TV room, laundry, medical center. Hostel allocation: Online application during admission, allocated based on payment order. Parents can verify hostel facilities during parent visits."
+  },
+  {
+    "doc_id": "hostel-application-process",
+    "category": "hostel",
+    "title": "General Hostel Application Process for Engineering Colleges",
+    "content": "Hostel application process at most engineering colleges: Step 1: Register for hostel online during admission process (before or at time of joining). Step 2: Submit hostel application form with preferences (room type, block). Step 3: Pay hostel security deposit (usually Rs 5,000-20,000 refundable). Step 4: Pay first semester hostel fee. Step 5: Receive hostel allotment letter with room number and hostel name. Step 6: Report to hostel on specified date before main orientation. Documents needed: Admission letter, fee receipt, medical fitness certificate, 2 photographs, parent/guardian contact details. Hostel warden contact details provided after allotment."
+  },
+  {
+    "doc_id": "checklist-pre-joining",
+    "category": "checklist",
+    "title": "Pre-Joining Checklist for New Engineering Students",
+    "content": "Before joining your college, complete this checklist: Documents - Original marksheets (10th and 12th), Rank card/scorecard, Category certificate (original + 5 photocopies), School leaving/migration certificate, Character certificate, Medical fitness certificate, Aadhar card (original + 5 copies), 10-15 passport photographs. Financial - Fee demand draft if online payment not available, Bank account details for scholarship, Scholarship application documents. Hostel - Hostel allotment letter, Bedding and pillow (if hostel doesn't provide), Laptop and accessories. Health - Medical insurance documents, List of any ongoing medications, Doctor's prescription if any. Others - Anti-ragging undertaking (signed by student and parent), Parental consent forms where applicable."
+  },
+  {
+    "doc_id": "checklist-documents-verification",
+    "category": "checklist",
+    "title": "Document Verification Checklist at College Admission",
+    "content": "During physical document verification at college admission, the following are typically verified: Academic documents: Original Class 10 marksheet + certificate, Original Class 12 marksheet + passing certificate. Entrance exam: Rank card/admit card (original). Identity: Aadhar card (original). Category: Caste/community certificate (original, issued by appropriate authority), EWS certificate if applicable, PwD certificate if applicable. Transfer: Migration certificate from previous institution, School leaving certificate. Medical: Medical fitness certificate signed by MBBS doctor. Other: Anti-ragging affidavit, Undertaking for correctness of information. Keep 5-10 photocopies of each document. Originals are typically returned after verification."
+  }
+]
